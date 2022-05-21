@@ -28,8 +28,8 @@ client = commands.Bot(command_prefix='~')
 #bot.remove_command('help')
 
 print("HARMONY\n")
-print("written by:")
-print(" ___ _\n|_ _| |_   _ _ __ ___  _ __\n | || | | | | '_ ` _ \\| '_ \\\n | || | |_| | | | | | | | | |\n|___|_|\\__,_|_| |_| |_|_| |_|\n")
+print("written by ilumn")
+print(" _   _    _    ____  __  __  ___  _   ___   __\n| | | |  / \\  |  _ \\|  \\/  |/ _ \\| \\ | \\ \\ / /\n| |_| | / _ \\ | |_) | |\\/| | | | |  \\| |\\ V /\n|  _  |/ ___ \\|  _ <| |  | | |_| | |\\  | | |\n|_| |_/_/   \\_|_| \\_|_|  |_|\\___/|_| \\_| |_|")
 print("https://github.com/ilumn/Harmony\n")
 
 #status event
